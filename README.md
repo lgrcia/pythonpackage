@@ -1,7 +1,7 @@
 # pythonpackage
 
 <p align="center" style="margin-bottom:0px">
-    <img src="docs/_static//blank.svg" width="350">
+    <img src="docs/_static//blank.svg" width="300">
 </p>
 
 <p align="center">
