@@ -1,5 +1,4 @@
 import warnings
-from astropy.wcs import FITSFixedWarning
 from . import config
 
 CONFIG = config.ConfigManager()
