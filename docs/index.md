@@ -1,7 +1,7 @@
 # pythonpackage
 
 ```{image} _static/blank.svg
-:width: 420px
+:width: 320px
 :align: center
 ```
 +++
