@@ -1,3 +1,9 @@
+> This is a template python package that includes:
+> -  A `pyproject.toml` file using [poetry](https://python-poetry.org/)
+> - A [ReadTheDoc](https://readthedocs.org/) online documentation
+> - A simple config file system with a `~/.pythonpackage` config folder
+
+
 # pythonpackage
 
 <p align="center" style="margin-bottom:0px">
