@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = "python_package"
+project = "pythonpackage"
 copyright = "2023, Lionel Garcia"
 author = "Lionel Garcia"
 
@@ -59,7 +59,7 @@ html_static_path = ["_static"]
 
 # Mine
 # -------------------
-html_title = "python_package"
+html_title = "pythonpackage"
 
 source_suffix = {
     ".rst": "restructuredtext",
@@ -70,7 +70,7 @@ source_suffix = {
 root_doc = "index"
 
 html_theme_options = {
-    "repository_url": "https://github.com/lgrcia/python_package",
+    "repository_url": "https://github.com/lgrcia/pythonpackage",
     "use_repository_button": True,
 }
 

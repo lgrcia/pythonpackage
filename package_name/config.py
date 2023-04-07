@@ -6,14 +6,14 @@ import yaml
 from yaml import Loader
 
 info = print
-python_package = "python_package"
+pythonpackage = "pythonpackage"
 
 
 class ConfigManager:
     def __init__(self):
         self.config = None
 
-        self.folder_path = Path.home() / f".{python_package}"
+        self.folder_path = Path.home() / f".{pythonpackage}"
         self.folder_path.mkdir(exist_ok=True)
 
         self.config_file = self.folder_path / "config"

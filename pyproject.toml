@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "python_package"
+name = "pythonpackage"
 version = "0.0.1"
 description = ""
 authors = ["Lionel Garcia <lionel_garcia@live.fr>"]

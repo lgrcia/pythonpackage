@@ -1,4 +1,4 @@
-# python_package
+# pythonpackage
 
 ```{image} _static/blank.svg
 :width: 420px
@@ -6,7 +6,7 @@
 ```
 +++
 
- *python_package* is a Python package to
+ *pythonpackage* is a Python package to
 
 ```{toctree}
 :maxdepth: 0
