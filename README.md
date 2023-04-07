@@ -14,7 +14,7 @@
     <a href="LICENCE">
       <img src="https://img.shields.io/badge/license-MIT-lightgray.svg?style=flat" alt="license"/>
     </a>
-    <a href="https://pythonpackage.readthedocs.io/en/3.0.0">
+    <a href="https://pythonpackage.readthedocs.io">
       <img src="https://img.shields.io/badge/documentation-black.svg?style=flat" alt="documentation"/>
     </a>
   </p>
