@@ -47,13 +47,15 @@ latex/*.fdb_latexmk
 latex/*.synctex.gz
 .*.lb
 
+# pytest
+.pytest_cache
+
 # perso
 dev
 test_results
 !test/test.py
 dev
 **/*.egg-info
-**.vscode
 **.fits
 **.array
 **/.ipynb_checkpoints
